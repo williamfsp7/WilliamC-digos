@@ -1,4 +1,4 @@
-O que outras pessoas estão dizendoprograma
+Código Portugol
 {
 	
 	funcao inicio()
